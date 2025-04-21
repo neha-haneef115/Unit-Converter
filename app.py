@@ -89,7 +89,6 @@ if st.sidebar.button("Clear History"):
 st.markdown('<div class="main-title">Unit Converter</div>', unsafe_allow_html=True)
 st.markdown('<p class="sub-title">Smart, Simple, and Hassle-Free Unit Conversion.</p>', unsafe_allow_html=True)
 
-# Define conversion factors
 conversion_factors = {
     "Length": {
         "meter": {
